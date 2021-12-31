@@ -2,7 +2,7 @@
   "name": "nft-preview",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jessijoke.github.io/nft-preview/",
+  "homepage": "https://desireejoy.github.io/nft-preview/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
