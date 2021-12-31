@@ -12,7 +12,7 @@ function Wrapper() {
             <div className="wrapperSpecs universalPadding">
                 <div className="cost"><img src={ethImage} alt="I can't type"/><div className='specsSpan'>0.041 ETH </div></div>
                 <div className="time"><img src={clockImage} alt="clock"/><div className='specsSpan'>3 days left</div></div>
-            </div>
+            </div>git push
             <div className="wrapperDivider universalPadding"><hr /></div>
             <div className="wrapperCreator universalPadding"><img src={Desi} alt="Actually Desi"/><span>Creation of</span>&nbsp;Jules Wyvern</div>
         </div>
