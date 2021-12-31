@@ -1,7 +1,7 @@
 
 ## View Page
 
-https://jessijoke.github.io/nft-preview/
+https://desireejoy.github.io/nft-preview/
 
 # Getting Started with Create React App
 
