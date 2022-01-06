@@ -8,13 +8,13 @@ function Wrapper() {
         <div className="wrapper">
             <div className='wrapperImage'><img src={newImage} alt="Fancy NFT"/></div>
             <div className="wrapperTitle universalPadding">Equilibrium #3429</div>
-            <div className="wrapperDesc universalPadding">Our Equilibrium collection promotes balance and calm.</div>
-            <div className="wrapperSpecs universalPadding">
+            <div className="wrapperDesc ">Our Equilibrium collection promotes balance and calm.</div>
+            <div className="wrapperSpecs ">
                 <div className="cost"><img src={ethImage} alt="I can't type"/><div className='specsSpan'>0.041 ETH </div></div>
                 <div className="time"><img src={clockImage} alt="clock"/><div className='specsSpan'>3 days left</div></div>
-            </div>git push
-            <div className="wrapperDivider universalPadding"><hr /></div>
-            <div className="wrapperCreator universalPadding"><img src={Desi} alt="Actually Desi"/><span>Creation of</span>&nbsp;Jules Wyvern</div>
+            </div>
+            <div className="wrapperDivider "><hr /></div>
+            <div className="wrapperCreator "><img src={Desi} alt="Actually Not Desi"/><span>Creation of</span>&nbsp;Jules Wyvern</div>
         </div>
     )
 }
