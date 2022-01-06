@@ -5,9 +5,8 @@ https://www.frontendmentor.io/solutions/reacthtmlsass-solution-for-nft-preview-c
 
 ## View Page
 
-https://desireejoy.github.io/nft-preview/
+[Live Link](https://desireejoy.github.io/nft-preview/)
 
 ### Skills Used
 
 REACT, SASS, JS, HTML, FlexBox, Pair Programming
-
