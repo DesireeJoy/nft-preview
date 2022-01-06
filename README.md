@@ -15,4 +15,5 @@ REACT, SASS, JS, HTML, FlexBox, Pair Programming
 
 
 ![Preview of CHallenge](NFTpreview.png =250x)
+![Preview of CHallenge](NFTpreview.png =100x20)
 ![Preview of CHallenge](NFTpreview.png)
