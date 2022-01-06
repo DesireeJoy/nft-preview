@@ -14,6 +14,5 @@ REACT, SASS, JS, HTML, FlexBox, Pair Programming
 #### Screenshot
 
 
-Try this markdown:
-
+![Preview of CHallenge](NFTpreview.png =250x)
 ![Preview of CHallenge](NFTpreview.png)
