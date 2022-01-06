@@ -1,7 +1,7 @@
 
 # FrontEnd Mentor Challenge
 
-https://www.frontendmentor.io/solutions/reacthtmlsass-solution-for-nft-preview-challenge-OBTtJ6hhX
+[Challenge Link](https://www.frontendmentor.io/solutions/reacthtmlsass-solution-for-nft-preview-challenge-OBTtJ6hhX)
 
 ## View Page
 
@@ -10,3 +10,10 @@ https://www.frontendmentor.io/solutions/reacthtmlsass-solution-for-nft-preview-c
 ### Skills Used
 
 REACT, SASS, JS, HTML, FlexBox, Pair Programming
+
+#### Screenshot
+
+
+Try this markdown:
+
+![Preview of CHallenge](NFTpreview.png)
