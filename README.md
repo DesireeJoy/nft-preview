@@ -13,7 +13,5 @@ REACT, SASS, JS, HTML, FlexBox, Pair Programming
 
 #### Screenshot
 
+<img src="NFTpreview.png" alt="Preview of CHallenge" width="200"/>
 
-![Preview of CHallenge](NFTpreview.png =250x)
-![Preview of CHallenge](NFTpreview.png =100x20)
-![Preview of CHallenge](NFTpreview.png)
